@@ -11,7 +11,15 @@ def recursive_find_files(base_dir, pattern):
                 yield os.path.join(dirpath, filename)
 
 
+IGNORE_FILENAMES = {
+    'README.md',
+}
+
+
 def lint_location_document(file_path):
+    if os.path.basename(file_path) in IGNORE_FILENAMES:
+        return
+
     with open(file_path) as file_to_lint:
         lines = file_to_lint.readlines()
         if not lines[0].startswith('# '):
