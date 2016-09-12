@@ -50,20 +50,22 @@ if __name__ == '__main__':
             "`lint_markdown_files.py` script.  Directories will be recursively "
             "traversed for markdown files.  Files will be directly linted"
         )
+
     errors = []
+
     for path_to_lint in sys.argv[1:]:
         if not os.path.exists(path_to_lint):
             errors.append(
                 "{path}: File Not Found".format(path=path_to_lint)
             )
         elif os.path.isfile(path_to_lint):
-            errors.extend(prefix_errors(path_to_lint, lint_location_document(path_to_lint)))
+            errors.extend(tuple(prefix_errors(path_to_lint, lint_location_document(path_to_lint))))
         elif os.path.isdir(path_to_lint):
-            errors.extend(itertools.chain(
+            errors.extend(tuple(itertools.chain.from_iterable(
                 prefix_errors(_path, lint_location_document(_path))
                 for _path
                 in recursive_find_files(path_to_lint, "*.md")
-            ))
+            )))
 
     if errors:
         sys.stderr.write('\n'.join(errors))
