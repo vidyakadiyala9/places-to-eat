@@ -4,4 +4,4 @@ python:
 dist: trusty
 sudo: false
 script:
-  - python lint_markdown_files.py
+  - python lint_markdown_files.py PLACE_TO_EAT_TEMPLATE.md locations/
