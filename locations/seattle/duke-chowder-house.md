@@ -1,4 +1,4 @@
-# Duke Chowder House
+# Duke Chowder House Lake Union
 
 * Address: 901 Fairview Ave Seattle WA, 98102
 * Hours: ???.
