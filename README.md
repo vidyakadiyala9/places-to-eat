@@ -6,7 +6,7 @@ This repository has places to eat for the following cities:
 
 * [Boulder, CO](/locations/boulder)
 * [Vernon Hills](/locations/Vernon Hills)
-
+* [Thai Thani, FL](/locations/Orlando/Thai-Thani.md)
 
 ## Contributing
 
