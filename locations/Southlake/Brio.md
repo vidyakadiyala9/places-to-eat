@@ -1,4 +1,4 @@
-# Lolitas Market & Deli
+# BRIO Tuscan Grille
 
 * Address: Southlake Town Square, 1431 Plaza Pl, Southlake, TX 76092
 * Hours: Open 24 hours a day.
