@@ -6,6 +6,7 @@ Places at which we like to eat :knife_fork_plate:
 
 This repository has places to eat for the following cities:
 
+* [Aurora, CO](/locations/Aurora)
 * [Boulder, CO](/locations/boulder)
 * [Chicago, IL](/locations/Chicago)
 * [Hyderabad, Telangana](/locations/Hyderabad)
