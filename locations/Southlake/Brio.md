@@ -4,10 +4,4 @@
 * Hours: Open 24 hours a day.
 * Phone: (817) 310-3136
 
-Lolitas is a small market in downtown Boulder Colorado.  It is located within
-close walking distance of the Pearl St. mall.  The Lolitas Deli makes a wide
-variety of tasty sandwiches including breakfast sandwiches which are served all
-day.
-
-Lolitas also carries a wide variety of snacks as well as basic staple
-groceries.
+“An extensive menu” of “upscale” Italian cuisine (served with “to-die-for” bread) pleases palates at these “frequently packed” chain members in Allen, boasting a “spartan, modern” aesthetic, and Southlake, with a “more open and airy” feel; they’re favored spots for “special occasions”, with both locations offering patio dining, which “always adds to the experience.” 
