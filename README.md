@@ -14,6 +14,7 @@ This repository has places to eat for the following cities:
 * [Orlando, FL](/locations/Orlando)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
+* [Seattle, WA](/locations/Seattle)
 
 ## Contributing
 
