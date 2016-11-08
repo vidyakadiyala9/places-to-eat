@@ -1,14 +1,7 @@
-#Kitchen Upstairs
+# Kitchen Upstairs
 
 * Address: 1039 Pearl St b, Boulder, CO 80302
-* Hours:
-Tuesday	5:30–10PM
-Wednesday	5:30–10PM
-Thursday	5:30PM–12AM
-Friday	5:30PM–12AM
-Saturday	5:30PM–12AM
-Sunday	5:30–10PM
-Monday	5:30–10PM
+* Hours: S-W 5:30-10PM, Th-Sat 5:30-12AM
 
 * Phone: (303) 544-5973
 
