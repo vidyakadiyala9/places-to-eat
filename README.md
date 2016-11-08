@@ -6,11 +6,14 @@ Places at which we like to eat :knife_fork_plate:
 
 This repository has places to eat for the following cities:
 
+* [Aurora, CO](/locations/Aurora)
 * [Boulder, CO](/locations/boulder)
 * [Chicago, IL](/locations/Chicago)
+* [East Windsor, NJ](/locations/East_Windsor)
 * [Hyderabad, Telangana](/locations/Hyderabad)
 * [Newport Beach, CA](/locations/Newport Beach)
 * [Orlando, FL](/locations/Orlando)
+* [Seattle, WA](/locations/Seattle)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
 
