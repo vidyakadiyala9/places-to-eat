@@ -1,9 +1,8 @@
+# Chand Palace
 
-Chand Palace
-
-Address: 1296 Centennial Ave, Piscataway Township, NJ 08854
-Hours :  M-F 6 - 9 PM
-Phone : 732 688 6109
+* Address: 1296 Centennial Ave, Piscataway Township, NJ 08854
+* Hours : M-F 6 - 9 PM
+* Phone : 732 688 6109
 
 Nice and good place to Eat in Edison
 
