@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/TheCognizantFoundry/places-to-eat.svg?branch=master)](https://travis-ci.org/TheCognizantFoundry/places-to-eat)
+
 # Where to Eat?
 
 Places at which we like to eat :knife_fork_plate:
