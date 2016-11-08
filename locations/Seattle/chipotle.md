@@ -1,4 +1,4 @@
-#chipotle
+# chipotle
 
 * Address: 1501 3rd Ave, Seattle, WA 98101
 * Hours: 10.45am to 8pm.
